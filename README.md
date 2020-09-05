@@ -123,7 +123,7 @@ replace [undefined, null, ...] with ''
 
 -
 ### Donate
-[Click Here && Thanks for Donate](https://github.com/Renny9/donate)
+[Click Here && Thanks for Donate](https://github.com/Renny-X/donate)
 
 ### Contribute
 1.  Fork
